@@ -6,5 +6,8 @@ public class addLoop {
         for (int i = 0; i < n; i++) {
             System.out.println("hello git hub ");
         }
+        for (int i = 0; i < n; i++) {
+            System.out.println(" hii..");
+        }
     }
 }
