@@ -11,5 +11,6 @@ class SolidRectangle {
             }
             System.out.println();
         }
+
     }
 }
